@@ -16,7 +16,7 @@
 - {{ link }} {% endfor %} {% endif %}
 
 {% if page.twitter %}
-<a href="https://twitter.com/intent/tweet?button_hashtag={{ page.twitter }}&ref_src=twsrc%5Etfw"
-   class="twitter-hashtag-button" data-related="sesync" data-show-count="false">Tweet #{{ page.twitter }}</a>
+<a class="twitter-moment"
+   href="https://twitter.com/i/moments/1006256948990312448?ref_src=twsrc%5Etfw">People are already misusing Elon Musk&#39;s flamethrowers</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% endif %}
